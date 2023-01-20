@@ -36,3 +36,8 @@ https://www.kaggle.com/datasets/saurabhshahane/spotgen-music-dataset
 ### Tableau
 * exploratory data analysis
 * visualization
+
+## ER Diagram:
+<img width="681" alt="Screen Shot 2023-01-19 at 8 27 45 PM" src="https://user-images.githubusercontent.com/115661999/213605105-88577661-6c1d-44cd-9086-a1284d2e7a1a.png">
+
+**To see more data visualization and analysis, please see the PDF file named "Spotify-Music-Popularity-Analytics."** 
